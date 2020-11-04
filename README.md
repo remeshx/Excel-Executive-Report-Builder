@@ -1,5 +1,7 @@
 # Executive Summary Report Builder In Excel
 
+![Executive Summary Report Builder In Excel](Readme_files/repository-open-graph-template.png)
+
 Executive Summary Report Builder In Excel is an application that summarize different type of reports into one report file. This can helps using Excel to combine reports and manage them easily.I have generated specific invented coding language for this application which is written in Excel cells (Like [[DA1:$A]]). This simplified language would let the operator creates millions of executive reports regardless of input report formats.
 Just mention that this application was generated in 2010 for a oil company to summarize its daily reports which came from several drilling rigs.
 
